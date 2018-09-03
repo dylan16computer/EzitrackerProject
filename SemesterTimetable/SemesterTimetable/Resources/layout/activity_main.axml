@@ -142,7 +142,7 @@
 			android:id="@+id/textView15"
 			android:textAlignment="center" />
 		<TextView
-			android:text="Int A&Dt"
+			android:text="Int A&D"
 			android:textAppearance="?android:attr/textAppearanceSmall"
 			android:layout_width="match_parent"
 			android:layout_height="wrap_content"
@@ -200,7 +200,7 @@
 			android:id="@+id/textView21"
 			android:textAlignment="center" />
 		<TextView
-			android:text="Int A&Dt"
+			android:text="Int A&D"
 			android:textAppearance="?android:attr/textAppearanceSmall"
 			android:layout_width="match_parent"
 			android:layout_height="wrap_content"
